@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* styles.css o styles.scss */
+@import '~animate.css/animate.css';
+
+:root {
+    --animate-duration: 1s;
+  }
+
+  
